@@ -1,5 +1,5 @@
 (mac OS) terminal  
-또는
+또는  
 (Windows OS) cmd  
 에서 아래 명령어 입력
 
