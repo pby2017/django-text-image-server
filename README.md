@@ -1,3 +1,3 @@
-# test-django-text-media-server
+# django-text-image-server
 
-Need django
+Need to install django
